@@ -9,7 +9,7 @@
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
 
 
-
+a
 ## **Introdução ao Docker**
 
 Docker é uma plataforma de virtualização que permite criar, distribuir e executar aplicativos em contêineres. Um contêiner é uma unidade leve e portátil que inclui tudo o que é necessário para executar um aplicativo: código, runtime, bibliotecas e dependências.
